@@ -10,9 +10,9 @@ This is your page!
   import RelatedLinks from '$lib/components/RelatedLinks.svelte';
 
   // Article metadata
-  let headline = 'Become a force for good. Join our next class.';
-  let byline = 'NYCity News Service';
-  let pubDate = '2026-01-31';
+  let headline = 'i might just be getting this on the first try';
+  let byline = 'Chloe Rogers';
+  let pubDate = '2026-02-09';
 
   // Related stories
   const relatedStories = [
